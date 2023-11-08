@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Google Scholar [Google Scholar](https://scholar.google.com/citations?user=pd7L5R0AAAAJ&hl=en)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My pages
+[GitHub](https://github.com/awstone)
+[Google Scholar](https://scholar.google.com/citations?user=pd7L5R0AAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/alexanderwstone/)
